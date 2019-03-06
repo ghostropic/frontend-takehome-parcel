@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Search component correctly 1`] = `
+<styled.div>
+  <form
+    onSubmit={[Function]}
+  >
+    <WithStyles(Input)
+      name="query"
+      onChange={[Function]}
+      placeholder="Search Ruby gems."
+      type="text"
+    />
+    <WithStyles(Button)
+      type="submit"
+    >
+      Search
+    </WithStyles(Button)>
+  </form>
+</styled.div>
+`;

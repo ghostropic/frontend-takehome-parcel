@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App correctly 1`] = `
+<styled.div>
+  <WithStyles(Typography)
+    component="h1"
+    gutterBottom={true}
+    variant="h2"
+  >
+    Search Ruby Gems ✨
+  </WithStyles(Typography)>
+  <Search
+    handleInputChange={[Function]}
+    handleSearchResults={[Function]}
+  />
+  <WithStyles(Grid)
+    container={true}
+    spacing={24}
+  >
+    <WithStyles(Grid)
+      item={true}
+      md={6}
+      xs={12}
+    >
+      <WithStyles(Typography)
+        component="h1"
+        gutterBottom={true}
+        variant="h5"
+      >
+        No gems listed. Try Searching.
+      </WithStyles(Typography)>
+    </WithStyles(Grid)>
+    <WithStyles(Grid)
+      item={true}
+      md={6}
+      xs={12}
+    >
+      <SavedGemsList
+        handleRemoveGem={[Function]}
+        savedGems={Array []}
+      />
+    </WithStyles(Grid)>
+  </WithStyles(Grid)>
+</styled.div>
+`;

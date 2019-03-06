@@ -1,0 +1,490 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render GemList correctly 1`] = `
+<div>
+  <WithStyles(Typography)
+    component="h1"
+    gutterBottom={true}
+    variant="h5"
+  >
+    Search Results
+  </WithStyles(Typography)>
+  <GemListItem
+    authors="Justin Balthrop, Lance Bradley"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/cake/0.6.3"
+    downloads={150214}
+    gem_uri="https://rubygems.org/gems/cake-0.6.3.gem"
+    homepage_uri="http://github.com/ninjudd/cake"
+    info="Save your fork, there's cake!"
+    key="6881a92b150fe659338a3581329d5929e7a771ff5749b8abca30cdb1b147b375"
+    licenses={null}
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/cake"
+    sha="6881a92b150fe659338a3581329d5929e7a771ff5749b8abca30cdb1b147b375"
+    source_code_uri={null}
+    version="0.6.3"
+    version_downloads={9247}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="ad2games GmbH"
+    bug_tracker_uri=""
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/soapy_cake/2.2.6"
+    downloads={79990}
+    gem_uri="https://rubygems.org/gems/soapy_cake-2.2.6.gem"
+    homepage_uri="http://ad2games.com"
+    info="Simple client for the CAKE API (http://getcake.com)"
+    key="4e439747afb89e90daad64c9f327eedc15c17e5f127c9f17dc55b0a43fd4e723"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri=""
+    metadata={Object {}}
+    name="soapy_cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/soapy_cake"
+    sha="4e439747afb89e90daad64c9f327eedc15c17e5f127c9f17dc55b0a43fd4e723"
+    source_code_uri="https://github.com/ad2games/soapy_cake"
+    version="2.2.6"
+    version_downloads={438}
+    wiki_uri=""
+  />
+  <GemListItem
+    authors="ad2games developers"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/bucket_cake/6.3.2"
+    downloads={22372}
+    gem_uri="https://rubygems.org/gems/bucket_cake-6.3.2.gem"
+    homepage_uri="https://github.com/ad2games/bucket_cake"
+    info="Get cakeproto objects from S3."
+    key="31da94b04768114f5260d9abb8d9b676f02bb11d1aea0df5e91b207ba470df77"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="bucket_cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/bucket_cake"
+    sha="31da94b04768114f5260d9abb8d9b676f02bb11d1aea0df5e91b207ba470df77"
+    source_code_uri={null}
+    version="6.3.2"
+    version_downloads={110}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Joshua F. Rountree, Justin Slamka"
+    bug_tracker_uri="https://github.com/joshuairl/capistrano-cake/issues"
+    changelog_uri={null}
+    documentation_uri="https://github.com/joshuairl/capistrano-cake"
+    downloads={6310}
+    gem_uri="https://rubygems.org/gems/capistrano-cake-0.0.5.gem"
+    homepage_uri="https://github.com/joshuairl/capistrano-cake"
+    info="CakePHP deployment for Capistrano 3.x"
+    key="c5d9749cfe744cdfcec22893f5f483790e3add1c0fce8d34992ded1722feaf83"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri=""
+    metadata={Object {}}
+    name="capistrano-cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/capistrano-cake"
+    sha="c5d9749cfe744cdfcec22893f5f483790e3add1c0fce8d34992ded1722feaf83"
+    source_code_uri="https://github.com/joshuairl/capistrano-cake"
+    version="0.0.5"
+    version_downloads={1947}
+    wiki_uri="https://github.com/joshuairl/capistrano-cake"
+  />
+  <GemListItem
+    authors="Charles Cooke"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/status_cake/0.1.2"
+    downloads={5607}
+    gem_uri="https://rubygems.org/gems/status_cake-0.1.2.gem"
+    homepage_uri="http://github.com/coupacooke/status_cake"
+    info="Ruby gem for StatusCake API - supports basic functions on tests"
+    key="b66e1e38d8976f3a1fb4df1d54543267c85beff3ae5457a0958157b96e619426"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="status_cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/status_cake"
+    sha="b66e1e38d8976f3a1fb4df1d54543267c85beff3ae5457a0958157b96e619426"
+    source_code_uri={null}
+    version="0.1.2"
+    version_downloads={3479}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Robert Ross"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/cake_lie/0.0.1"
+    downloads={2306}
+    gem_uri="https://rubygems.org/gems/cake_lie-0.0.1.gem"
+    homepage_uri=""
+    info="Creates fake information."
+    key="ba4aeb2f76bc4ef07c4ebdcd562786906907954dd5f7cd5484b82eb176188d17"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="cake_lie"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/cake_lie"
+    sha="ba4aeb2f76bc4ef07c4ebdcd562786906907954dd5f7cd5484b82eb176188d17"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={2296}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Pavel Evstigneev"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/docker-cake/0.2.2"
+    downloads={1637}
+    gem_uri="https://rubygems.org/gems/docker-cake-0.2.2.gem"
+    homepage_uri="https://github.com/paxa/docker-cake"
+    info="Command line program to inspect docker images size"
+    key="fd82a904f80380103c699313a2c9f8695042e46332e3fe376d161474f4f64576"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="docker-cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/docker-cake"
+    sha="fd82a904f80380103c699313a2c9f8695042e46332e3fe376d161474f4f64576"
+    source_code_uri={null}
+    version="0.2.2"
+    version_downloads={374}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Konstantin Haase"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/mustermann-cake/0.4.0"
+    downloads={1538}
+    gem_uri="https://rubygems.org/gems/mustermann-cake-0.4.0.gem"
+    homepage_uri="https://github.com/rkh/mustermann"
+    info="Adds CakePHP style patterns to Mustermman"
+    key="8e0038c50f8abfb46d4af8077857d4cb502c8ad796b86cea713ae6d01c076a75"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="mustermann-cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/mustermann-cake"
+    sha="8e0038c50f8abfb46d4af8077857d4cb502c8ad796b86cea713ae6d01c076a75"
+    source_code_uri={null}
+    version="0.4.0"
+    version_downloads={1534}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Tobias Talltorp"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/tweeting_cake/0.0.1"
+    downloads={1499}
+    gem_uri="https://rubygems.org/gems/tweeting_cake-0.0.1.gem"
+    homepage_uri="https://github.com/talltorp/tweeting_cake"
+    info="Make a cake tweet witha Makey Makey"
+    key="8e5b587830b4d5bde4b771507fe8b091da71a3a61799de0d4e0e2080a0f1c592"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="tweeting_cake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/tweeting_cake"
+    sha="8e5b587830b4d5bde4b771507fe8b091da71a3a61799de0d4e0e2080a0f1c592"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={1494}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Nick Crowther, Yuri Tomanek, Abdul Rauf"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/gluttonberg-blog/1.0.0"
+    downloads={1714}
+    gem_uri="https://rubygems.org/gems/gluttonberg-blog-1.0.0.gem"
+    homepage_uri="http://gluttonberg.com"
+    info="Create integrated blogs with powerful publishing flows and user management abilities."
+    key="ef71314ffd6ec3497fbb1e22ebde0f07cbe9207c6ae8d7f1d3fce9fb29330ff6"
+    licenses={Array []}
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="gluttonberg-blog"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/gluttonberg-blog"
+    sha="ef71314ffd6ec3497fbb1e22ebde0f07cbe9207c6ae8d7f1d3fce9fb29330ff6"
+    source_code_uri={null}
+    version="1.0.0"
+    version_downloads={1709}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Sue Anna Yeh"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/cake_lie_syeh/0.0.1"
+    downloads={2325}
+    gem_uri="https://rubygems.org/gems/cake_lie_syeh-0.0.1.gem"
+    homepage_uri=""
+    info="Creates fake information"
+    key="c35bf090684771b20f189b79c89a21648622d3130e7f96eb36cb42dc989e3f5e"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="cake_lie_syeh"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/cake_lie_syeh"
+    sha="c35bf090684771b20f189b79c89a21648622d3130e7f96eb36cb42dc989e3f5e"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={2315}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="jonathonleyh"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/cake_lie_leyh/0.0.1"
+    downloads={2324}
+    gem_uri="https://rubygems.org/gems/cake_lie_leyh-0.0.1.gem"
+    homepage_uri=""
+    info="Creates fake information."
+    key="79bf25b1003ab18f917c665dfe3f18b9dfdfc3fe7009cf8c8fc485274d97bfee"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="cake_lie_leyh"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/cake_lie_leyh"
+    sha="79bf25b1003ab18f917c665dfe3f18b9dfdfc3fe7009cf8c8fc485274d97bfee"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={2315}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Robert Ross"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/cake_lie_ross/0.0.1"
+    downloads={2321}
+    gem_uri="https://rubygems.org/gems/cake_lie_ross-0.0.1.gem"
+    homepage_uri=""
+    info="Creates fake information."
+    key="d339d11997041255e0ae7ce62143ca381cb0e42539b0ca9f48f9c61bcd78d052"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="cake_lie_ross"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/cake_lie_ross"
+    sha="d339d11997041255e0ae7ce62143ca381cb0e42539b0ca9f48f9c61bcd78d052"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={2312}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="SkylerBenge"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/cake_lie_benge/0.0.1"
+    downloads={2245}
+    gem_uri="https://rubygems.org/gems/cake_lie_benge-0.0.1.gem"
+    homepage_uri=""
+    info="Creates fake information"
+    key="9f50476cc7b83f711fb6367b892921592a05e020675698796346ee4659512a34"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="cake_lie_benge"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/cake_lie_benge"
+    sha="9f50476cc7b83f711fb6367b892921592a05e020675698796346ee4659512a34"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={2237}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Quentin Jin"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/lida/0.0.3"
+    downloads={929}
+    gem_uri="https://rubygems.org/gems/lida-0.0.3.gem"
+    homepage_uri="https://github.com/jianstm/lida"
+    info="🍰 Open current finder/xcode dir in terminal/iterm and vice versa, easy as cake!"
+    key="8499a63cc3e16454c59b12c83afba992ec2908840563309c338899db3c8aea33"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="lida"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/lida"
+    sha="8499a63cc3e16454c59b12c83afba992ec2908840563309c338899db3c8aea33"
+    source_code_uri={null}
+    version="0.0.3"
+    version_downloads={285}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Justin Balthrop"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/portal/0.0.1"
+    downloads={2798}
+    gem_uri="https://rubygems.org/gems/portal-0.0.1.gem"
+    homepage_uri="http://github.com/ninjudd/portal"
+    info="The cake is a lie!"
+    key="3b327634a6ced5e6b45146487a1312de5fd3bb2b84ce9b423828ddbae677020a"
+    licenses={null}
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="portal"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/portal"
+    sha="3b327634a6ced5e6b45146487a1312de5fd3bb2b84ce9b423828ddbae677020a"
+    source_code_uri={null}
+    version="0.0.1"
+    version_downloads={2794}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Ben Slaughter, Jonathan Chrisp"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/brake/0.3.7"
+    downloads={46988}
+    gem_uri="https://rubygems.org/gems/brake-0.3.7.gem"
+    homepage_uri="https://github.com/jonathanchrisp/brake"
+    info="A Cucumber options parser wrapper for Rake, because, cake was already taken!"
+    key="2da2c8c49ade55bd0a95ffb7f12616996d535876aa42b7ddb5865c5b8a7226b4"
+    licenses={
+      Array [
+        "MIT",
+      ]
+    }
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="brake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/brake"
+    sha="2da2c8c49ade55bd0a95ffb7f12616996d535876aa42b7ddb5865c5b8a7226b4"
+    source_code_uri={null}
+    version="0.3.7"
+    version_downloads={2552}
+    wiki_uri={null}
+  />
+  <GemListItem
+    authors="Vikhyat Korrapati"
+    bug_tracker_uri="https://github.com/vikhyat/StormyCloud/issues"
+    changelog_uri={null}
+    documentation_uri="http://rubydoc.info/github/vikhyat/StormyCloud/master/frames"
+    downloads={11241}
+    gem_uri="https://rubygems.org/gems/stormy-cloud-0.2.0.gem"
+    homepage_uri="https://github.com/vikhyat/StormyCloud"
+    info="StormyCloud makes writing distributed applications in Ruby a piece of cake."
+    key="4c6b992c400f6bebaa3042e7d05f03a85f580e38dfe3dcaddb44799767a93fae"
+    licenses={Array []}
+    mailing_list_uri=""
+    metadata={Object {}}
+    name="stormy-cloud"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/stormy-cloud"
+    sha="4c6b992c400f6bebaa3042e7d05f03a85f580e38dfe3dcaddb44799767a93fae"
+    source_code_uri="https://github.com/vikhyat/StormyCloud"
+    version="0.2.0"
+    version_downloads={1722}
+    wiki_uri=""
+  />
+  <GemListItem
+    authors="Hiranya Jayathilaka"
+    bug_tracker_uri={null}
+    changelog_uri={null}
+    documentation_uri="http://www.rubydoc.info/gems/appscake/0.0.3"
+    downloads={8170}
+    gem_uri="https://rubygems.org/gems/appscake-0.0.3.gem"
+    homepage_uri="http://appscale.cs.ucsb.edu"
+    info="    AppsCake provides a pretty web interface that can be used to deploy
+    AppScale over machines in Xen, KVM, Amazon EC2, or Eucalyptus. In
+    short, it makes deploying AppScale a piece of cake!
+"
+    key="46b389dccc8c44b45abbe1011317932c1f4d56e7a3815dcf02dc10fcb700201a"
+    licenses={null}
+    mailing_list_uri={null}
+    metadata={Object {}}
+    name="appscake"
+    platform="ruby"
+    project_uri="https://rubygems.org/gems/appscake"
+    sha="46b389dccc8c44b45abbe1011317932c1f4d56e7a3815dcf02dc10fcb700201a"
+    source_code_uri={null}
+    version="0.0.3"
+    version_downloads={2958}
+    wiki_uri={null}
+  />
+</div>
+`;

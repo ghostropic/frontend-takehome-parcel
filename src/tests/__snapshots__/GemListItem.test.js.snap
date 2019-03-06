@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render GemListItem correctly 1`] = `
+<Styled(WithStyles(Card))>
+  <WithStyles(CardContent)>
+    <WithStyles(Typography)
+      component="h5"
+      variant="h5"
+    >
+      <p>
+        cake
+      </p>
+    </WithStyles(Typography)>
+    <p>
+      Save your fork, there's cake!
+    </p>
+    <p>
+      Version: 0.6.3
+    </p>
+    <p>
+      Authors: undefined
+    </p>
+    <p>
+      Downloads: 150214
+    </p>
+    <p>
+      https://rubygems.org/gems/cake
+    </p>
+    <Styled(Button)
+      onClick={[Function]}
+      text="save"
+    />
+  </WithStyles(CardContent)>
+</Styled(WithStyles(Card))>
+`;
